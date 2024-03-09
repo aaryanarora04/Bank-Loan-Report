@@ -7,11 +7,11 @@ Data Source: The loan data for this project is sourced from an internal banking 
 Tools Used: <br>
 Power BI: Create dynamic and interactive visualizations to present key findings effectively. <br>
 # Dashboards <br>
-Summary Dashboard: <br>
+ <h3> Summary Dashboard: <h3> <br>
 Captures key loan-related metrics and their changes over time. <br>
 Includes KPIs such as total loan applications, funded amount, amount received, average interest rate, and average debt-to-income ratio (DTI). <br>
 Distinguishes between ‘Good Loans’ and ‘Bad Loans’ for assessing loan portfolio quality. <br>
-Overview Dashboard: <br>
+ <h3> Overview Dashboard: <h3>  <br>
 Visualizes various loan-related metrics through different chart types: <br>
 Monthly trends by issue date <br>
 Regional analysis by state <br>
@@ -19,7 +19,7 @@ Loan term analysis <br>
 Employment length analysis <br>
 Loan purpose breakdown <br>
 Home ownership analysis <br>
-Details Dashboard: <br> 
+<h3> Details Dashboard: <h3> <br> 
 Offers a detailed view of loan data, including borrower profiles and performance metrics. <br>
 Fields utilized in the dashboards: <br>
 Loan ID <br> 

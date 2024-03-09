@@ -19,7 +19,8 @@ Loan term analysis <br>
 Employment length analysis <br>
 Loan purpose breakdown <br>
 Home ownership analysis <br>
-<h3> Details Dashboard: <h3> <br> 
+<h3> Details Dashboard: <h3>
+<br> 
 Offers a detailed view of loan data, including borrower profiles and performance metrics. <br>
 Fields utilized in the dashboards: <br>
 Loan ID <br> 

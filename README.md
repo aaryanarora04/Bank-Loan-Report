@@ -1,6 +1,6 @@
 # Bank-Loan-Report
 <br>
-Welcome to the Bank Loan Report repository! This project combines SQL for data manipulation and Tableau for visualization to create a comprehensive report on bank loan data. The goal is to provide stakeholders with actionable insights into loan applications, approvals, and related metrics. <br>
+Welcome to the Bank Loan Report repository! This project combines SQL for data manipulation and Power bi for visualization to create a comprehensive report on bank loan data. The goal is to provide stakeholders with actionable insights into loan applications, approvals, and related metrics. <br>
 
 # Overview <br>
 Data Source: The loan data for this project is sourced from an internal banking database, capturing comprehensive information about the bank’s lending activities.<br>
